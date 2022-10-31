@@ -27,13 +27,13 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Proxy;
+namespace Reach_Guard\Proxy;
 
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 /**
  * Class Proxy
- * @package reach_guard\Proxy
+ * @package Reach_Guard\Proxy
  */
 class Proxy extends BaseModel
 {
