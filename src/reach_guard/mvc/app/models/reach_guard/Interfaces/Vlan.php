@@ -26,7 +26,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Interfaces;
+namespace Reach_Guard\Interfaces;
 
 use Phalcon\Messages\Message;
 use reach_guard\Base\BaseModel;
