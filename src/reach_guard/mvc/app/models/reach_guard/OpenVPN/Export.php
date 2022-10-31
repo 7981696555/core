@@ -26,9 +26,9 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\OpenVPN;
+namespace Reach_Guard\OpenVPN;
 
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 /**
  * Class Export
