@@ -26,9 +26,9 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Monit\Migrations;
+namespace Reach_Guard\Monit\Migrations;
 
-use reach_guard\Base\BaseModelMigration;
+use Reach_Guard\Base\BaseModelMigration;
 
 class M1_0_7 extends BaseModelMigration
 {
