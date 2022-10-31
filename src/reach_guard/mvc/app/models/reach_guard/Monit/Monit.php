@@ -27,10 +27,10 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Monit;
+namespace Reach_Guard\Monit;
 
 use Phalcon\Messages\Message;
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 /**
  * Class Monit
