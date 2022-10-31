@@ -1,8 +1,8 @@
 <model>
-    <mount>//OPNsense/IDS</mount>
+    <mount>//Reach_Guard/IDS</mount>
     <version>1.0.7</version>
     <description>
-        OPNsense IDS
+        Reach_Guard IDS
     </description>
     <items>
         <rules>
