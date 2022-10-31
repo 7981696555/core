@@ -26,11 +26,11 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Syslog;
+namespace Reach_Guard\Syslog;
 
 use Phalcon\Messages\Message;
-use reach_guard\Base\BaseModel;
-use reach_guard\Firewall\Util;
+use Reach_Guard\Base\BaseModel;
+use Reach_Guard\Firewall\Util;
 
 /**
  * Class Syslog
