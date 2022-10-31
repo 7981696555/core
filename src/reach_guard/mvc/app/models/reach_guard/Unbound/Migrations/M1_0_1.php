@@ -26,13 +26,13 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Unbound\Migrations;
+namespace Reach_Guard\Unbound\Migrations;
 
-use reach_guard\Base\BaseModelMigration;
-use reach_guard\Base\FieldTypes\BooleanField;
-use reach_guard\Base\FieldTypes\NetworkField;
-use reach_guard\Base\FieldTypes\PortField;
-use reach_guard\Core\Config;
+use Reach_Guard\Base\BaseModelMigration;
+use Reach_Guard\Base\FieldTypes\BooleanField;
+use Reach_Guard\Base\FieldTypes\NetworkField;
+use Reach_Guard\Base\FieldTypes\PortField;
+use Reach_Guard\Core\Config;
 
 class M1_0_1 extends BaseModelMigration
 {
