@@ -195,7 +195,7 @@
         <!-- Bootstrap type ahead -->
         <script src="{{ cache_safe('/ui/js/bootstrap3-typeahead.min.js') }}"></script>
 
-        <!-- OPNsense standard toolkit -->
+        <!-- Reach_Guard standard toolkit -->
         <script src="{{ cache_safe('/ui/js/opnsense.js') }}"></script>
         <script src="{{ cache_safe('/ui/js/opnsense_theme.js') }}"></script>
         <script src="{{ cache_safe('/ui/js/opnsense_ui.js') }}"></script>
@@ -287,7 +287,7 @@
     </main>
 
     <!-- dialog "wait for (service) action" -->
-    <div class="modal fade" id="OPNsenseStdWaitDialog" tabindex="-1" data-backdrop="static" data-keyboard="false">
+    <div class="modal fade" id="Reach_GuardStdWaitDialog" tabindex="-1" data-backdrop="static" data-keyboard="false">
       <div class="modal-backdrop fade in"></div>
       <div class="modal-dialog">
         <div class="modal-content">
