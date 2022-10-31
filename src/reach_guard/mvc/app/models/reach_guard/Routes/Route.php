@@ -29,14 +29,14 @@
  *
  */
 
-namespace reach_guard\Routes;
+namespace Reach_Guard\Routes;
 
 use Phalcon\Messages\Message;
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 /**
  * Class Route
- * @package reach_guard\Routes
+ * @package Reach_Guard\Routes
  */
 class Route extends BaseModel
 {
