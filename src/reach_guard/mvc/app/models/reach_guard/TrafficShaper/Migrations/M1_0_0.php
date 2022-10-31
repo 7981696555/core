@@ -28,9 +28,9 @@
  *
  */
 
-namespace reach_guard\TrafficShaper\Migrations;
+namespace Reach_Guard\TrafficShaper\Migrations;
 
-use reach_guard\Base\BaseModelMigration;
+use Reach_Guard\Base\BaseModelMigration;
 
 class M1_0_0 extends BaseModelMigration
 {
