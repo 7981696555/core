@@ -26,14 +26,14 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\TrafficShaper;
+namespace Reach_Guard\TrafficShaper;
 
 use Phalcon\Messages\Message;
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 /**
  * Class TrafficShaper
- * @package reach_guard\TrafficShaper
+ * @package Reach_Guard\TrafficShaper
  */
 class TrafficShaper extends BaseModel
 {
