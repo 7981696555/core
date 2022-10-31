@@ -26,9 +26,9 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Interfaces;
+namespace Reach_Guard\Interfaces;
 
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 class VxLan extends BaseModel
 {
