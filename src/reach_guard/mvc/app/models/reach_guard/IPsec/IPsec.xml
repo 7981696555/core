@@ -1,8 +1,8 @@
 <model>
-    <mount>//OPNsense/IPsec</mount>
+    <mount>//Reach_Guard/IPsec</mount>
     <version>1.0.0</version>
     <description>
-        OPNsense IPsec
+        Reach_Guard IPsec
     </description>
     <items>
         <general>
