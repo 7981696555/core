@@ -1,5 +1,5 @@
 <model>
-    <mount>//OPNsense/unboundplus</mount>
+    <mount>//Reach_Guard/unboundplus</mount>
     <description>Unbound configuration</description>
     <version>1.0.3</version>
     <items>
