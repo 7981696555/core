@@ -26,9 +26,9 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\Unbound;
+namespace Reach_Guard\Unbound;
 
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 class Unbound extends BaseModel
 {
