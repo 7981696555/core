@@ -28,9 +28,9 @@
 
 namespace reach_guard\Monit\Migrations;
 
-use reach_guard\Base\BaseModelMigration;
-use reach_guard\Core\Config;
-use reach_guard\Core\Shell;
+use Reach_Guard\Base\BaseModelMigration;
+use Reach_Guard\Core\Config;
+use Reach_Guard\Core\Shell;
 
 class M1_0_0 extends BaseModelMigration
 {
