@@ -1,5 +1,5 @@
 <model>
-    <mount>//OPNsense/proxy</mount>
+    <mount>//Reach_Guard/proxy</mount>
     <version>1.0.5</version>
     <description>
         (squid) proxy settings
@@ -12,10 +12,10 @@
             </enabled>
             <error_pages type="OptionField">
                 <Required>N</Required>
-                <Default>opnsense</Default>
+                <Default>Reach_Guard</Default>
                 <BlankDesc>Squid</BlankDesc>
                 <OptionValues>
-                    <opnsense>OPNsense</opnsense>
+                    <opnsense>Reach_Guard</opnsense>
                     <custom>Custom</custom>
                 </OptionValues>
             </error_pages>
