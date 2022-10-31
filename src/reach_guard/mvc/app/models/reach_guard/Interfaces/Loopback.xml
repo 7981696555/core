@@ -1,5 +1,5 @@
 <model>
-    <mount>//OPNsense/Interfaces/loopbacks</mount>
+    <mount>//Reach_Guard/Interfaces/loopbacks</mount>
     <version>1.0.0</version>
     <description>
         VXLAN configuration
