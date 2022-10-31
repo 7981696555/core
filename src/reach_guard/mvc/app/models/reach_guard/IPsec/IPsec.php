@@ -27,14 +27,14 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace reach_guard\IPsec;
+namespace Reach_Guard\IPsec;
 
 use Phalcon\Messages\Message;
-use reach_guard\Base\BaseModel;
+use Reach_Guard\Base\BaseModel;
 
 /**
  * Class IPsec
- * @package reach_guard\IPsec
+ * @package Reach_Guard\IPsec
  */
 class IPsec extends BaseModel
 {
