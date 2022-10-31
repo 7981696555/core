@@ -28,11 +28,11 @@
  *
  */
 
-namespace reach_guard\Interfaces\FieldTypes;
+namespace Reach_Guard\Interfaces\FieldTypes;
 
-use reach_guard\Base\FieldTypes\BaseListField;
-use reach_guard\Core\Backend;
-use reach_guard\Core\Config;
+use Reach_Guard\Base\FieldTypes\BaseListField;
+use Reach_Guard\Core\Backend;
+use Reach_Guard\Core\Config;
 
 class VlanInterfaceField extends BaseListField
 {
